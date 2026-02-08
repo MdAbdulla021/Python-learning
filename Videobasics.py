@@ -1,4 +1,4 @@
-
+#Basic video opening using OpenCV
 import cv2 
 
 #Open the video file
