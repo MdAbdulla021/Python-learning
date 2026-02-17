@@ -1,2 +1,2 @@
-# Python-learning
-This repo contains my python files
+# My-learning files
+This repo contains my learning files
